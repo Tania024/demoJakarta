@@ -1,0 +1,15 @@
+ec\edu\ups\demoJakarta\model\Producto.class
+ec\edu\ups\demoJakarta\services\CORSFilter.class
+ec\edu\ups\demoJakarta\views\VistaClientes.class
+ec\edu\ups\demoJakarta\model\Factura.class
+ec\edu\ups\demoJakarta\services\Respuesta.class
+ec\edu\ups\demoJakarta\business\GestionClientes.class
+ec\edu\ups\demoJakarta\dao\ClienteDAO.class
+ec\edu\ups\demoJakarta\dao\DetalleFacturaDAO.class
+ec\edu\ups\demoJakarta\services\ClientesService.class
+ec\edu\ups\demoJakarta\model\DetalleFactura.class
+ec\edu\ups\demoJakarta\services\PathBase.class
+ec\edu\ups\demoJakarta\dao\ProductoDAO.class
+ec\edu\ups\demoJakarta\model\Cliente.class
+ec\edu\ups\demoJakarta\business\Inicio.class
+ec\edu\ups\demoJakarta\dao\FacturaDAO.class
